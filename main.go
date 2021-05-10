@@ -4,6 +4,7 @@ import (
 	"github.com/Logiase/MiraiGo-Template/bot"
 	"github.com/Logiase/MiraiGo-Template/config"
 	"github.com/Logiase/MiraiGo-Template/utils"
+	_ "github.com/lty5240/qqbot/modules/logging"
 	"os"
 	"os/signal"
 )

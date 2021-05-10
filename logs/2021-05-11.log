@@ -22,3 +22,17 @@
 {"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-05-11T02:10:28+08:00"}
 {"bot":"internal","level":"info","msg":"load 3 groups","time":"2021-05-11T02:10:29+08:00"}
 {"bot":"internal","level":"info","msg":"stopped","time":"2021-05-11T02:10:30+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-05-11T02:14:21+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: 流逝丶风","time":"2021-05-11T02:14:22+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-05-11T02:14:22+08:00"}
+{"bot":"internal","level":"info","msg":"load 2 friends","time":"2021-05-11T02:14:22+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-05-11T02:14:22+08:00"}
+{"bot":"internal","level":"info","msg":"load 3 groups","time":"2021-05-11T02:14:22+08:00"}
+{"MessageID":49172,"MessageIID":1387896037,"SenderID":1046044814,"Target":2404287046,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"哦哦哦","time":"2021-05-11T02:14:28+08:00"}
+{"MessageID":49173,"MessageIID":1961963184,"SenderID":1046044814,"Target":2404287046,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"干馍馍","time":"2021-05-11T02:14:32+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-05-11T02:17:52+08:00"}
